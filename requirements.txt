@@ -1,0 +1,9 @@
+streamlit>=1.22.0
+pygments>=2.15.0
+python-docx
+PyPDF2
+docx2txt
+python-pptx
+python-magic
+#brew install libmagic ##for mac
+##streamlit run app.py
